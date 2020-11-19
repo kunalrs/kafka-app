@@ -14,7 +14,7 @@ public class Producer {
 
     public static void main(String[] args) {
 
-        String bootstrapServer = "KunalSagar1d.mylabserver.com:9092";
+        String bootstrapServer = "kafka1:9092";
 
         // Producer configs
         Properties properties = new Properties();
